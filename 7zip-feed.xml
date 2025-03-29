@@ -5,11 +5,6 @@
     <Homepage>https://www.7-zip.org/</Homepage>
   </Metadata>
   <Implementation>
-    <Archive
-      href="https://www.7-zip.org/a/7z2409-x64.exe"
-      os="windows"
-      architecture="x86-64">
-      <Requires command="/7z.exe"/>
-    </Archive>
+    <Archive href="https://www.7-zip.org/a/7z2409-x64.exe" os="windows" architecture="x86-64" />
   </Implementation>
 </Feed>

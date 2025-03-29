@@ -1,0 +1,15 @@
+<Feed xmlns="http://zero-install.sourceforge.net/2004/feed">
+  <Metadata>
+    <Name>7-Zip</Name>
+    <Summary>File archiver with high compression</Summary>
+    <Homepage>https://www.7-zip.org/</Homepage>
+  </Metadata>
+  <Implementation>
+    <Archive
+      href="https://www.7-zip.org/a/7z2201.exe"
+      os="windows"
+      architecture="x86-64">
+      <Requires command="/7z.exe"/>
+    </Archive>
+  </Implementation>
+</Feed>

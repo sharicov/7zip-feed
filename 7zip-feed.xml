@@ -6,7 +6,7 @@
   </Metadata>
   <Implementation>
     <Archive
-      href="https://www.7-zip.org/a/7z2201.exe"
+      href="https://www.7-zip.org/a/7z2409-x64.exe"
       os="windows"
       architecture="x86-64">
       <Requires command="/7z.exe"/>
